@@ -1,0 +1,12 @@
+Package: M3DExampleData
+Version: 0.99.3
+Date: 2016-07-15
+Title: M3Drop Example Data
+Author: Tallulah Andrews <tallulandrews@gmail.com>
+Maintainer: Tallulah Andrews <tallulandrews@gmail.com>
+Depends: R (>= 3.3)
+LazyData: true
+biocViews: Mus_musculus_Data, RNASeqData, ExpressionData, GEO, Tissue,
+        ExperimentData
+Description: Example data for M3Drop package.
+License: GPL (>=2)
